@@ -1,0 +1,16 @@
+{
+  "main.css": "/multi-track-video/static/css/main.d978df50.chunk.css",
+  "main.js": "/multi-track-video/static/js/main.22fcbffd.chunk.js",
+  "main.js.map": "/multi-track-video/static/js/main.22fcbffd.chunk.js.map",
+  "runtime~main.js": "/multi-track-video/static/js/runtime~main.32a18970.js",
+  "runtime~main.js.map": "/multi-track-video/static/js/runtime~main.32a18970.js.map",
+  "static/js/2.212a1f45.chunk.js": "/multi-track-video/static/js/2.212a1f45.chunk.js",
+  "static/js/2.212a1f45.chunk.js.map": "/multi-track-video/static/js/2.212a1f45.chunk.js.map",
+  "index.html": "/multi-track-video/index.html",
+  "precache-manifest.7edc9764fc2b7cda34befd7b146d33ae.js": "/multi-track-video/precache-manifest.7edc9764fc2b7cda34befd7b146d33ae.js",
+  "service-worker.js": "/multi-track-video/service-worker.js",
+  "static/css/main.d978df50.chunk.css.map": "/multi-track-video/static/css/main.d978df50.chunk.css.map",
+  "static/media/audioTrack_1.aac": "/multi-track-video/static/media/audioTrack_1.e4973add.aac",
+  "static/media/audioTrack_2.aac": "/multi-track-video/static/media/audioTrack_2.9df57faa.aac",
+  "static/media/multiTrack.mp4": "/multi-track-video/static/media/multiTrack.c714f4ac.mp4"
+}
