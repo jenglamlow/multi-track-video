@@ -2,6 +2,7 @@
   "name": "multi-track-video",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://jenglamlow.github.io/multi-track-video",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
